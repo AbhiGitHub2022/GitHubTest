@@ -1,2 +1,2 @@
-# Insurance-Management-System
-Capstone Project for Bachelor of Information Technology
+# GitHubTest
+This is a test file. 
